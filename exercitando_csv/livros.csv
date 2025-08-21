@@ -1,11 +1,11 @@
-Livro,Gênero,Preço
-Dom Casmurro,Romance,39.90
-1984,Ficção Científica,45.50
-O Senhor dos Anéis,Fantasia,89.90
-A Revolução dos Bichos,Sátira,32.00
-O Pequeno Príncipe,Infantil,29.90
-Harry Potter e a Pedra Filosofal,Fantasia,49.90
-Orgulho e Preconceito,Romance,36.50
-O Hobbit,Fantasia,42.00
-Cem Anos de Solidão,Ficção Literária,58.90
-Sherlock Holmes - Um Estudo em Vermelho,Mistério,34.90
+Livro,Gênero,Preço,Quantidade
+Dom Casmurro,Romance,39.90,3
+1984,Ficção Científica,45.50,5
+O Senhor dos Anéis,Fantasia,89.90,2
+A Revolução dos Bichos,Sátira,32.00,4
+O Pequeno Príncipe,Infantil,29.90,6
+Harry Potter e a Pedra Filosofal,Fantasia,49.90,3
+Orgulho e Preconceito,Romance,36.50,2
+O Hobbit,Fantasia,42.00,4
+Cem Anos de Solidão,Ficção Literária,58.90,1
+Sherlock Holmes - Um Estudo em Vermelho,Mistério,34.90,2
