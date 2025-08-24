@@ -1,3 +1,3 @@
 # nome-que-você-quiser
 
-Manifestação na paulista dia 19/08 às 12h
+GIT focado em testar as funções e para apender as utilidades da linguagem e do programa
